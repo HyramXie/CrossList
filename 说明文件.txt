@@ -1,0 +1,14 @@
+程序所在的目录：十字链表
+
+程序的主程序文件名：Cross.cpp
+
+程序的头文件名：Cross.h
+
+输入数据所对应的文件名称:
+Crossone.dat
+Crosstwo.dat
+
+输出数据所对应的文件名称:
+Crossthree.dat
+
+编译好的可执行程序名字:Cross.exe
